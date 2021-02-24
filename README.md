@@ -15,6 +15,7 @@ y otras de sus características priorizadas por las entidades de Gobierno y UNIC
 1. Copia el archivo mapa/settings.py.example a mapa/settings.py y configura la base de datos DATABASES['default'] y los
    origenes de consulta permitidos en CORS_ALLOWED_ORIGINS
 2. Importa el archivo de base de datos base
+   [https://drive.google.com/drive/folders/1qiZBow1rJUX172SeFTimadRyMNhUPkxi?usp=sharing](https://drive.google.com/drive/folders/1qiZBow1rJUX172SeFTimadRyMNhUPkxi?usp=sharing)
 3. Instala la dependencia de CORS `python -m pip install django-cors-headers`
 
 ### Correr la aplicación:
